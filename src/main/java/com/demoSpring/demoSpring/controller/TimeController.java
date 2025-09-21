@@ -1,6 +1,6 @@
-package com.cybersoft.demoSpring.controller;
+package com.demoSpring.demoSpring.controller;
 
-import com.cybersoft.demoSpring.service.TimeService;
+import com.demoSpring.demoSpring.service.TimeService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

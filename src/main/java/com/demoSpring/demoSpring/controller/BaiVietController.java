@@ -1,6 +1,6 @@
-package com.cybersoft.demoSpring.controller;
+package com.demoSpring.demoSpring.controller;
 
-import com.cybersoft.demoSpring.entity.Product;
+import com.demoSpring.demoSpring.entity.Product;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

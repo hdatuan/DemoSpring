@@ -1,6 +1,6 @@
-package com.cybersoft.demoSpring.controller;
+package com.demoSpring.demoSpring.controller;
 
-import com.cybersoft.demoSpring.entity.User;
+import com.demoSpring.demoSpring.entity.User;
 import org.springframework.web.bind.annotation.*;
 
 /**

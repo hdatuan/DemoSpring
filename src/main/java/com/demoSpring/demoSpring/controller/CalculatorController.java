@@ -1,6 +1,6 @@
-package com.cybersoft.demoSpring.controller;
+package com.demoSpring.demoSpring.controller;
 
-import com.cybersoft.demoSpring.service.CalculatorService;
+import com.demoSpring.demoSpring.service.CalculatorService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;

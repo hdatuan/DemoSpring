@@ -1,4 +1,4 @@
-package com.cybersoft.demoSpring.entity;
+package com.demoSpring.demoSpring.entity;
 
 public class Product {
     private String productId;

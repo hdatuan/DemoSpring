@@ -1,9 +1,8 @@
-package com.cybersoft.demoSpring.entity;
+package com.demoSpring.demoSpring.entity;
 
-public class Role {
+public class User {
     private int id;
     private String name;
-    private String username;
 
     public int getId() {
         return id;
@@ -19,13 +18,5 @@ public class Role {
 
     public void setName(String name) {
         this.name = name;
-    }
-
-    public String getUsername() {
-        return username;
-    }
-
-    public void setUsername(String username) {
-        this.username = username;
     }
 }

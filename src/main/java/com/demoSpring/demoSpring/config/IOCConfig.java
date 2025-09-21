@@ -1,8 +1,8 @@
-package com.cybersoft.demoSpring.config;
+package com.demoSpring.demoSpring.config;
 
-import com.cybersoft.demoSpring.entity.Role;
-import com.cybersoft.demoSpring.entity.User;
-import com.cybersoft.demoSpring.service.TimeService;
+import com.demoSpring.demoSpring.entity.Role;
+import com.demoSpring.demoSpring.entity.User;
+import com.demoSpring.demoSpring.service.TimeService;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

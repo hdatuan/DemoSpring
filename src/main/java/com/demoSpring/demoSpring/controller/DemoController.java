@@ -1,7 +1,6 @@
-package com.cybersoft.demoSpring.controller;
+package com.demoSpring.demoSpring.controller;
 
-import com.cybersoft.demoSpring.entity.User;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.demoSpring.demoSpring.entity.User;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

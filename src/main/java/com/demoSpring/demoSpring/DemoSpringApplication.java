@@ -1,4 +1,4 @@
-package com.cybersoft.demoSpring;
+package com.demoSpring.demoSpring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

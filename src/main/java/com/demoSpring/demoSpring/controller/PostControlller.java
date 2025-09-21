@@ -1,4 +1,4 @@
-package com.cybersoft.demoSpring.controller;
+package com.demoSpring.demoSpring.controller;
 
 
 import org.springframework.http.ResponseEntity;

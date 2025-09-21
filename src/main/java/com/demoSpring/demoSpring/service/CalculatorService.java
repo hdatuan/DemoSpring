@@ -1,4 +1,4 @@
-package com.cybersoft.demoSpring.service;
+package com.demoSpring.demoSpring.service;
 
 import org.springframework.stereotype.Service;
 
