@@ -25,7 +25,7 @@ public class BaiVietController {
     }
 
     @DeleteMapping("/{id}")
-    public ResponseEntity<Product> deleteBaiViet(@PathVariable String id , @RequestParam String name) {
+    public ResponseEntity<Product> deleteBaiViet(@PathVariable long id , @RequestParam String name) {
 
         Product product = new Product();
 

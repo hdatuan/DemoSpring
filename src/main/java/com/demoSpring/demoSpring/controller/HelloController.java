@@ -3,15 +3,7 @@ package com.demoSpring.demoSpring.controller;
 import com.demoSpring.demoSpring.entity.User;
 import org.springframework.web.bind.annotation.*;
 
-/**
- *  Declare path
- * @Controller : declare path, return html
- * @ResponseBody : declare path, return String ( json, xml )
- *
- * @RestController : declare path, return String ( json, xml )
- * @RequestMapping : declare path
- *
- */
+
 
 @RestController
 @RequestMapping("/hello")
@@ -25,12 +17,7 @@ public class HelloController {
 
     @GetMapping("")
     public String hello() {
-        return "Hello Spring Boot " + user.getName();
-    }
-
-    @GetMapping("/bc10")
-    public String helloBc10() {
-        return "Hello bc 10";
+        return "Hello Spring Boot!";
     }
 
 
